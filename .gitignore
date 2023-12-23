@@ -1,0 +1,17 @@
+**/.DS_Store
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
+.vscode/
+npm-debug.log*
+*set_env.sh
+*.env
