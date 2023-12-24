@@ -14,4 +14,3 @@ log.txt
 .vscode/
 npm-debug.log*
 *set_env.sh
-*.env
